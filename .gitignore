@@ -1,0 +1,8 @@
+.vscode/
+venv/
+.ipynb_checkpoints/
+.conda/
+env/
+ENV/
+.venv/venv/
+logs
